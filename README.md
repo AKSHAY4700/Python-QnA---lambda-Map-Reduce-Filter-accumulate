@@ -1,0 +1,1 @@
+# Python-QnA---lambda-Map-Reduce-Filter-accumulate
